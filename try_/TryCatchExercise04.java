@@ -21,5 +21,6 @@ public class TryCatchExercise04 {
 		}
 
 		System.out.println("你输入的值是=" + num);
+
 	}
 }
